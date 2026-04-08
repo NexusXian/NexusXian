@@ -17,15 +17,6 @@ To clearly demonstrate technical implementation capabilities, the following is c
 
 ---
 
-### 📈 Recent Technical Practices & Explorations
-I currently focus on "in-depth technical accumulation" and "cross-domain integration", with specific directions including:
-1. Developing microservices with **Go + Gin**: Focusing on solving challenges in "service registration & discovery", "distributed tracing", and "circuit breaking & degradation", aiming to improve system availability to 99.99%;
-2. Frontend engineering optimization: Building a workflow of "automated building + component documentation + unit testing" based on **Vue3 + TypeScript** to reduce team collaboration costs;
-3. Expanding Flutter cross-platform capabilities: Exploring "native plugin development" and "performance optimization" (e.g., list lazy loading, memory leak detection) to achieve consistent multi-platform user experience;
-4. Cloud-native technology implementation: Setting up a personal development environment with Docker + K8s, practicing "CI/CD pipelines" and "service monitoring & alerting" to enhance development and deployment efficiency.
-
----
-
 ### 📫 How to Reach Me
 > Note: The links below are placeholders. It is recommended to replace them with your actual information for visitors to connect with you quickly!
 - [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:xyhcatrl@gmail.com): Highly recommended—feel free to discuss technical issues or collaboration needs anytime;
