@@ -1,4 +1,5 @@
-I'm **NexusXian**. I excel at designing and delivering scalable, highly available technical solutions based on business scenarios—particularly passionate about breaking down complex problems, optimizing performance, and maintaining code readability and maintainability. Currently, I focus on three key areas: "Backend Performance Optimization", "Cross-Platform Consistent Experience", and "Cloud-Native Deployment". My core tech stack is as follows:
+I'm **NexusXian**. 
+
 
 - **Backend Development**: Go (Golang) (primary), Java (enterprise-level projects)  
 - **Frontend Development**: TypeScript/JavaScript (engineering), Vue (3.x ecosystem)  
@@ -22,18 +23,4 @@ To clearly demonstrate technical implementation capabilities, the following is c
 - [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:xyhcatrl@gmail.com): Highly recommended—feel free to discuss technical issues or collaboration needs anytime;
 ---
 
-### 📊 My GitHub Stats
-The charts below show my code contributions, frequently used languages, and other data in real time (if the data is not updated, try refreshing the page cache):
-<p align="center">
-  <a href="https://github.com/NexusXian">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=NexusXian&show_icons=true&theme=vue" alt="GitHub Contribution & Activity Statistics" />
-  </a>
-  <a href="https://github.com/NexusXian">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NexusXian&layout=compact&theme=vue&cache_seconds=60" alt="Proportion of Frequently Used Programming Languages" />
-  </a>
-</p>
-
 ---
-
-**Thank you for your visit!** Whether it’s open-source collaboration, technical communication, or project cooperation, I’m excited to spark ideas with you in the tech world 🚀  
-(If the page data isn’t updated in real time, try refreshing your browser cache to get the latest information～)
