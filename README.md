@@ -7,9 +7,10 @@ I'm **NexusXian**.
 
 ---
 
-## Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NexusXian&layout=compact&theme=transparent)
+<p align="center">
+  <img height="165" src="https://github-readme-stats.shion.dev/api?username=NexusXian&show_icons=true&theme=vue" alt="stats" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=NexusXian&layout=compact&theme=vue" alt="languages" />
+</p>
 
 ### 🛠 Tech Stack & Tools (with Core Application Scenarios)
 To clearly demonstrate technical implementation capabilities, the following is categorized into "Development Layer" and "Tool Layer":
