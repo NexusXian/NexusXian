@@ -7,6 +7,10 @@ I'm **NexusXian**.
 
 ---
 
+## Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NexusXian&layout=compact&theme=transparent)
+
 ### 🛠 Tech Stack & Tools (with Core Application Scenarios)
 To clearly demonstrate technical implementation capabilities, the following is categorized into "Development Layer" and "Tool Layer":
 
