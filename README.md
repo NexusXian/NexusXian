@@ -8,8 +8,8 @@ I'm **NexusXian**.
 ---
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.shion.dev/api?username=NexusXian&show_icons=true&theme=vue" alt="stats" />
-  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=NexusXian&layout=compact&theme=vue" alt="languages" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api?username=NexusXian&show_icons=true&theme=tokoynight" alt="stats" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=NexusXian&layout=compact&theme=tokoynight" alt="languages" />
 </p>
 
 ### 🛠 Tech Stack & Tools (with Core Application Scenarios)
